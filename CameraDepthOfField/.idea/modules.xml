@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CameraDepthOfField.iml" filepath="$PROJECT_DIR$/CameraDepthOfField.iml" group="Camera Depth of Field/CameraDepthOfField" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1170225107/Camera_Depth_of_Field.iml" filepath="$PROJECT_DIR$/.idea/modules/-1170225107/Camera_Depth_of_Field.iml" group="Camera_Depth_of_Field" />
+    </modules>
+  </component>
+</project>

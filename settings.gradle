@@ -1,0 +1,3 @@
+rootProject.name='Camera Depth of Field'
+//include ':app'
+include ':CameraDepthOfField'
